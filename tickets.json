@@ -1,0 +1,122 @@
+[
+  {
+    "ticket": "I was charged twice for my subscription this month.",
+    "category": "Billing",
+    "urgency": "High",
+    "sample_response": "Apologize for the inconvenience, confirm the duplicate charge, and provide a refund timeline."
+  },
+  {
+    "ticket": "The app crashes every time I try to log in.",
+    "category": "Technical",
+    "urgency": "High",
+    "sample_response": "Apologize and guide the user to reinstall the app or clear cache."
+  },
+  {
+    "ticket": "I forgot my password and can't access my account.",
+    "category": "Account",
+    "urgency": "Medium",
+    "sample_response": "Provide instructions for password reset."
+  },
+  {
+    "ticket": "My order hasn't arrived even though it was supposed to be delivered yesterday.",
+    "category": "Shipping",
+    "urgency": "High",
+    "sample_response": "Check tracking information and update the customer with estimated delivery."
+  },
+  {
+    "ticket": "Can I change my delivery address after placing an order?",
+    "category": "Shipping",
+    "urgency": "Medium",
+    "sample_response": "Explain the policy for changing delivery addresses."
+  },
+  {
+    "ticket": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "urgency": "High",
+    "sample_response": "Explain the cancellation process and refund eligibility."
+  },
+  {
+    "ticket": "The app takes too long to load and is very slow.",
+    "category": "Technical",
+    "urgency": "Medium",
+    "sample_response": "Apologize for the inconvenience and suggest troubleshooting steps."
+  },
+  {
+    "ticket": "I received the wrong item in my order.",
+    "category": "Shipping",
+    "urgency": "High",
+    "sample_response": "Apologize and explain the replacement or return process."
+  },
+  {
+    "ticket": "I can't find my order history in the app.",
+    "category": "Account",
+    "urgency": "Low",
+    "sample_response": "Guide the user to access order history."
+  },
+  {
+    "ticket": "I was promised a discount but it wasn't applied.",
+    "category": "Billing",
+    "urgency": "Medium",
+    "sample_response": "Check the promotion terms and correct the order if applicable."
+  },
+  {
+    "ticket": "How do I update my payment method?",
+    "category": "Account",
+    "urgency": "Low",
+    "sample_response": "Provide instructions for updating payment details."
+  },
+  {
+    "ticket": "The tracking link for my order is not working.",
+    "category": "Shipping",
+    "urgency": "Medium",
+    "sample_response": "Provide the correct tracking link or alternative tracking method."
+  },
+  {
+    "ticket": "I keep getting error messages when trying to checkout.",
+    "category": "Technical",
+    "urgency": "High",
+    "sample_response": "Guide the user to troubleshoot checkout issues or try a different browser."
+  },
+  {
+    "ticket": "I accidentally subscribed twice, how do I cancel one?",
+    "category": "Billing",
+    "urgency": "High",
+    "sample_response": "Explain cancellation process for duplicate subscriptions."
+  },
+  {
+    "ticket": "Can I change my delivery time for an existing order?",
+    "category": "Shipping",
+    "urgency": "Medium",
+    "sample_response": "Check if the delivery time can be modified and guide the user."
+  },
+  {
+    "ticket": "The app keeps logging me out randomly.",
+    "category": "Technical",
+    "urgency": "Medium",
+    "sample_response": "Apologize and suggest troubleshooting steps or update the app."
+  },
+  {
+    "ticket": "I want to update my email address in my account.",
+    "category": "Account",
+    "urgency": "Low",
+    "sample_response": "Provide instructions to update email."
+  },
+  {
+    "ticket": "My order was damaged when it arrived.",
+    "category": "Shipping",
+    "urgency": "High",
+    "sample_response": "Apologize and explain replacement or return process."
+  },
+  {
+    "ticket": "I didn't receive my cashback reward for last purchase.",
+    "category": "Billing",
+    "urgency": "Medium",
+    "sample_response": "Check reward eligibility and provide guidance."
+  },
+  {
+    "ticket": "I am seeing unexpected charges on my account.",
+    "category": "Billing",
+    "urgency": "High",
+    "sample_response": "Investigate the charges and provide clarification to the customer."
+  }
+]
